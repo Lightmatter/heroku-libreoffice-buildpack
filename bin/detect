@@ -1,0 +1,2 @@
+echo "apt-get libreoffice"
+exit 0
